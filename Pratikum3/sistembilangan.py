@@ -1,2 +1,0 @@
-# Sistem Bilangan
-
